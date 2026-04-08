@@ -4,3 +4,11 @@ Python project for log analysis with:
 - Rule-based detection of ERROR bursts in 30-second windows.
 - Isolation Forest (scikit-learn) to detect anomalous log lines based on severity and message length.
 
+  
+“Features” (burst detection + Isolation Forest).
+
+“How to run” (commands with venv note).
+
+“Tech stack” (Python, pandas, scikit‑learn).
+
+
